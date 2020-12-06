@@ -1,0 +1,8 @@
+{
+  "name": "ToDo TaDa",
+  "short_name": "ToDo",
+  "display": "fullscreen",
+  "theme_color": "#1a1a1a",
+  "background_color": "#1a1a1a",
+  "description": "Make a list of your TODO tasks"
+}

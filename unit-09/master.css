@@ -1,0 +1,6 @@
+.square {background-color:black;
+      border-color:black;
+      border-radius:0px;}
+
+.rounded {border-radius:2px;
+          border-color:black;}
